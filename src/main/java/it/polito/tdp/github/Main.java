@@ -5,3 +5,4 @@ public class Main {
         EntryPoint.main(args);
     }
 }
+//commento modificato (il maggiore vicino main mi indica che ho modificato il main rispetto al commit)
